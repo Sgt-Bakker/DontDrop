@@ -1,0 +1,8 @@
+c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\bin\Debug\insertDB.exe.config
+c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\obj\Debug\insertDB.csprojResolveAssemblyReference.cache
+c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\bin\Debug\insertDB.exe
+c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\bin\Debug\insertDB.pdb
+c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\bin\Debug\MySql.Data.dll
+c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\bin\Debug\MySql.Web.dll
+c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\obj\Debug\insertDB.exe
+c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\obj\Debug\insertDB.pdb
