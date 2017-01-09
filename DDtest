@@ -1,0 +1,44 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HandlingExceptions
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                string content = File.ReadAllText(@"C:\emp\Data.txt");
+                Console.WriteLine(content);
+
+            }
+            catch (FileNotFoundException ex)
+            {
+                Console.WriteLine("There was a probelem");
+                Console.WriteLine("Make sure the file name is correctly");
+            }
+            catch (DirectoryNotFoundException)
+            {
+                Console.WriteLine("There was a probelem");
+                Console.WriteLine("Make sure the directory is right");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("There was a problem.");
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                //Code to finish
+                //closing datab conn
+                Console.WriteLine("This is the end of the app");
+            }
+            Console.ReadLine();
+        }
+    }
+}
