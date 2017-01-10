@@ -1,0 +1,6 @@
+C:\Users\Fluppie\Documents\Visual Studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe.config
+C:\Users\Fluppie\Documents\Visual Studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.exe
+C:\Users\Fluppie\Documents\Visual Studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\bin\Debug\EnumsAndSwitch.pdb
+C:\Users\Fluppie\Documents\Visual Studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.csprojResolveAssemblyReference.cache
+C:\Users\Fluppie\Documents\Visual Studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.exe
+C:\Users\Fluppie\Documents\Visual Studio 2015\Projects\EnumsAndSwitch\EnumsAndSwitch\obj\Debug\EnumsAndSwitch.pdb
