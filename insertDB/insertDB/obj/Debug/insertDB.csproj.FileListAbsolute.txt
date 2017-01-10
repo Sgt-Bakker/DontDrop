@@ -6,3 +6,6 @@ c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\bin\Deb
 c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\bin\Debug\MySql.Web.dll
 c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\obj\Debug\insertDB.exe
 c:\users\fluppie\documents\visual studio 2015\Projects\insertDB\insertDB\obj\Debug\insertDB.pdb
+C:\Users\Fluppie\Source\Repos\DontDrop\insertDB\insertDB\bin\Debug\insertDB.exe.config
+C:\Users\Fluppie\Source\Repos\DontDrop\insertDB\insertDB\obj\Debug\insertDB.exe
+C:\Users\Fluppie\Source\Repos\DontDrop\insertDB\insertDB\obj\Debug\insertDB.pdb
